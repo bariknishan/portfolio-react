@@ -1,4 +1,10 @@
 .images {
-    height: 250px;
+    height: 300px;
+    width: 300px;
+    
   
+}
+.banner{
+width: 90%;
+margin: auto;
 }

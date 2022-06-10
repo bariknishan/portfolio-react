@@ -5,14 +5,14 @@ import pic2 from '../Images/html.png'
 import pic3 from '../Images/css.png'
 import pic4 from '../Images/bootstrap.png'
 import pic5 from '../Images/mongo.png'
-import pic6 from '../Images/node.png'
+import pic6 from '../Images/nod.png'
 import pic7 from '../Images/react.png'
 import pic8 from '../Images/word.png'
 const Info = () => {
     return (
         <div className=' py-6' >
 
-            <h1 className='text-center text-white font-bold text-4xl mb-8' >Experties Area & Skills</h1>
+            <h1 className='text-center text-white font-bold text-4xl mb-8' >Experties Area And Skills</h1>
 
             <div className=' py-6 grid grid-cols-1  lg:grid-cols-4 md:grid-cols-2 gap-10 mt-16  m-4   '>
                 <div  >

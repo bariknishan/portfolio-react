@@ -7,7 +7,7 @@ const Navbar = () => {
   const navItems = <>
 
     <li className='font-bold text-white '><Link to="/home">HOME </Link></li>
-    <li className='font-bold text-white '><Link to="/projects">PROJECTS</Link> </li>
+    <li className='font-bold text-white '><Link to="/projects">PROJECTS DETAILS</Link> </li>
     <li className='font-bold text-white'><Link to="/about">ABOUT </Link> </li>
     <li className='font-bold text-white '><Link to="/contact">CONTACT </Link> </li>
     
@@ -18,7 +18,7 @@ const Navbar = () => {
 
 
   return (
-    <div className="navbar bg-blue-500 p-6">
+    <div className="navbar  p-6">
       <div className="navbar-start">
         <div className="dropdown">
           <label tabIndex="0" className="btn btn-ghost lg:hidden">
@@ -28,7 +28,7 @@ const Navbar = () => {
             {navItems}
           </ul>
         </div>
-        <Link to='/home' className=" normal-case text-2xl font-bold text-warning">BARIK NISHAN</Link>
+        <Link to='/home' className=" normal-case text-3xl font-bold text-warning">BARIK NISHAN</Link>
       </div>
       <div className="navbar-center hidden lg:flex">
         <ul className="menu menu-horizontal p-0">
