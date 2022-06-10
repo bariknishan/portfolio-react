@@ -8,3 +8,18 @@
 width: 90%;
 margin: auto;
 }
+
+.para-area{
+    animation-name: ani;
+    animation-duration: 2s;
+    animation-iteration-count: 1;
+}
+
+@keyframes ani{
+    from{
+        width: 100px;
+    }
+    to{
+        width: 600px;
+    }
+}

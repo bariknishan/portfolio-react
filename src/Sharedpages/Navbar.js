@@ -9,7 +9,8 @@ const Navbar = () => {
     <li className='font-bold text-white '><Link to="/home">HOME </Link></li>
     <li className='font-bold text-white '><Link to="/projects">PROJECTS DETAILS</Link> </li>
     <li className='font-bold text-white'><Link to="/about">ABOUT </Link> </li>
-    <li className='font-bold text-white '><Link to="/contact">CONTACT </Link> </li>
+    <li className='font-bold text-white '><Link to="/contact">CONTACT ME</Link> </li>
+    <li className='font-bold text-white '><Link to="/blogs">BLOGS </Link> </li>
     
 
 
@@ -28,7 +29,7 @@ const Navbar = () => {
             {navItems}
           </ul>
         </div>
-        <Link to='/home' className=" normal-case text-3xl font-bold text-warning">BARIK NISHAN</Link>
+        <Link to='/home' className=" normal-case text-3xl font-bold text-white">BARIK NISHAN</Link>
       </div>
       <div className="navbar-center hidden lg:flex">
         <ul className="menu menu-horizontal p-0">

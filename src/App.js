@@ -7,6 +7,8 @@ import Navbar from './Sharedpages/Navbar';
 import Info from './Homepage/Info';
 import Resume from './Homepage/Resume';
 import Contact from './Homepage/Contact';
+import About from './Homepage/About';
+import Blogs from './Homepage/Blogs';
 
 
 function App() {
@@ -23,7 +25,9 @@ function App() {
        <Route path='banner' element={<Banner></Banner>}  ></Route>
        <Route path='info' element={<Info></Info>} ></Route>
        <Route path='projects' element={<Resume></Resume>}  ></Route>
+       <Route path='about' element={<About></About>}  ></Route>
        <Route path='contact' element={<Contact></Contact>}  ></Route>
+       <Route path='blogs' element={<Blogs></Blogs>}  ></Route>
       
      </Routes>
     </div>
