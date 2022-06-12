@@ -14,12 +14,12 @@ const Contact = () => {
     return (
         <div>
       
-            <div className="hero min-h-screen bg-base-200">
+            <div className="hero min-h-screen ">
 
                 <div className="hero-content flex-col lg:flex-row-reverse">
                     <div className="text-center lg:text-left">
-                        <h1 className="text-5xl font-bold">CONTACT ME</h1>
-                        <p className="py-6">Send Your Query and email.Let me know about your demands .</p>
+                        <h1 className="text-5xl text-white font-bold">CONTACT ME</h1>
+                        <p className="py-6  text-white">Send Your Query and email.Let me know about your demands .</p>
                     </div>
                     <form onSubmit={handleSubmit}>
 
