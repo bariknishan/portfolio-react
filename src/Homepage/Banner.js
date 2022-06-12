@@ -1,6 +1,6 @@
 import React from 'react';
 
-import bg from '../Images/bg.png'
+import bg from '../Images/profili.png'
 import './Banner.css'
 
 const Banner = () => {
@@ -11,7 +11,7 @@ const Banner = () => {
     <div className="hero min-h-screen py-6 banner    ">
       <div className="hero-content flex-col lg:flex-row-reverse   banner">
         <div class="avatar">
-          <div class="w-24 rounded-full images ring ring-primary ring-offset-base-100 ring-offset-2">
+          <div class="w-24  images  ">
             <img src={bg}  alt="" />
           </div>
         </div>

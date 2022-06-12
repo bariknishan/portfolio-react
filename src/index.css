@@ -7,17 +7,15 @@
 
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
+  
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 
-  font-family: 'Nuosu SIL', serif;
-  font-family: 'Poppins', sans-serif;
+  font-family: 'Abel', sans-serif;
+  font-size: 20px;
+  
 
-
-  background-image: url("/src/Images/background.jpg");
+  background-image: url("/src/background/back.jpg");
   
   background-position: center;
   background-repeat: no-repeat;

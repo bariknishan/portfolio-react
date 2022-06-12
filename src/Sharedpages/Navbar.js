@@ -7,7 +7,7 @@ const Navbar = () => {
   const navItems = <>
 
     <li className='font-bold text-white '><Link to="/home">HOME </Link></li>
-    <li className='font-bold text-white '><Link to="/projects">PROJECTS DETAILS</Link> </li>
+    <li className='font-bold text-white '><Link to="/projects">PROJECT DETAILS</Link> </li>
     <li className='font-bold text-white'><Link to="/about">ABOUT </Link> </li>
     <li className='font-bold text-white '><Link to="/contact">CONTACT ME</Link> </li>
     <li className='font-bold text-white '><Link to="/blogs">BLOGS </Link> </li>

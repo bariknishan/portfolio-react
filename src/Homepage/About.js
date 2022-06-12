@@ -1,6 +1,6 @@
 import React from 'react';
 import './about.css'
-import profile from '../Images/my.jpg'
+import profile from '../background/bg1.png'
 const About = () => {
     return (
         <div className='py-6'>
