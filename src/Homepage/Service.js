@@ -10,7 +10,7 @@ const Service = () => {
                 <div className="card w-100  text-primary-content   ">
                     <div className="card-body   ">
                         <h2 className="card-title text-2xl font-bold text-warning">WEB DEV AND DESIGN</h2>
-                        <p className='font-bold'>I design amd develop beautiful website for business pusposes,     personal puposes etc.
+                        <p className='font-bold'>I design amd develop beautiful website for business pusposes,personal purposes etc.
                             Design and develop webisites with latest technology such as ReacJs,React Router,Hooks,Tailwind, Bootstrap, nodejs, mongodb,stripe  etc. Hire me anytime.
                         </p>
                        
@@ -19,7 +19,7 @@ const Service = () => {
                 <div className="card w-100   text-primary-content">
                     <div className="card-body  ">
                         <h2 className="card-title text-2xl font-bold text-warning ">WORDPRESS CUSTOMIZATION </h2>
-                        <p className='font-bold'>I provide Wordpress theme Customization, plugins customization. Also makes user friendly and respncive websites ,with good UI,UX Design. How to make traffics on website with SEO friendly and give good user experinece.  </p>
+                        <p className='font-bold'>I provide Wordpress theme Customization, plugins customization. Also makes user friendly and resposive websites ,with good UI,UX Design. How to make traffics on website with SEO friendly and give good user experinece.  </p>
                       
                     </div>
                 </div>
